@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:squadvfxcomp1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-squadvfxcomp1%40gmail.com-3cc8b4?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:capsuleutkarsh@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-capsuleutkarsh%40gmail.com-3cc8b4?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <img alt="Mumbai" src="https://img.shields.io/badge/based_in-Mumbai-1d3a7a?style=for-the-badge">
   <img alt="Windows" src="https://img.shields.io/badge/tools_for-Windows-5b8def?style=for-the-badge&logo=windows&logoColor=white">
 </p>
@@ -91,4 +91,4 @@ All four are **free to use in your studio** under the
 use them, change them for your studio, but don't sell them, and send your improvements back as a pull request.
 
 Questions, bugs or ideas: open an issue on the tool's page, or write to
-**[squadvfxcomp1@gmail.com](mailto:squadvfxcomp1@gmail.com)**.
+**[capsuleutkarsh@gmail.com](mailto:capsuleutkarsh@gmail.com)**.
