@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="mailto:capsuleutkarsh@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-capsuleutkarsh%40gmail.com-3cc8b4?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://capsuleutkarsh-design.github.io/"><img alt="Website" src="https://img.shields.io/badge/website-capsuleutkarsh--design.github.io-7fe3d4?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <img alt="Mumbai" src="https://img.shields.io/badge/based_in-Mumbai-1d3a7a?style=for-the-badge">
   <img alt="Windows" src="https://img.shields.io/badge/tools_for-Windows-5b8def?style=for-the-badge&logo=windows&logoColor=white">
 </p>
