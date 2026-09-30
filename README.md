@@ -27,6 +27,7 @@ sharing, polls, shot status, a studio calendar and an org chart. Nothing leaves 
 <a href="https://github.com/capsuleutkarsh-design/studio-lan-messenger"><img src="https://raw.githubusercontent.com/capsuleutkarsh-design/studio-lan-messenger/main/docs/images/home.png" alt="Quillo" width="100%"></a>
 
 [⬇ Download](https://github.com/capsuleutkarsh-design/studio-lan-messenger/releases/latest) ·
+[Website](https://capsuleutkarsh-design.github.io/studio-lan-messenger/) ·
 [What's new](https://github.com/capsuleutkarsh-design/studio-lan-messenger/blob/main/docs/releases/v1.11.1.md)
 
 </td>
@@ -52,7 +53,8 @@ COLMAP), exported to Nuke and Blender. Needs an NVIDIA GPU.
 
 <a href="https://github.com/capsuleutkarsh-design/contour-vfx"><img src="https://raw.githubusercontent.com/capsuleutkarsh-design/contour-vfx/main/docs/screenshots/contour_graph.png" alt="Contour VFX" width="100%"></a>
 
-[⬇ Download](https://github.com/capsuleutkarsh-design/contour-vfx/releases/latest)
+[⬇ Download](https://github.com/capsuleutkarsh-design/contour-vfx/releases/latest) ·
+[Website](https://capsuleutkarsh-design.github.io/contour-vfx/)
 
 </td>
 <td valign="top">
