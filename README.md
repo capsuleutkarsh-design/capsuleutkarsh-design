@@ -94,5 +94,5 @@ All four are **free to use in your studio** under the
 [UT Community Licence](https://github.com/capsuleutkarsh-design/Quillo#licence):
 use them, change them for your studio, but don't sell them, and send your improvements back as a pull request.
 
-Questions, bugs or ideas: open an issue on the tool's page, or write to
+Questions, bugs or ideas: open an issue on the tool's page, or write to also if you need repo for any thing you can mail me i can provide you for these software 
 **[capsuleutkarsh@gmail.com](mailto:capsuleutkarsh@gmail.com)**.
