@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>VFX artist in Mumbai, building free tools for VFX and animation studios.</b><br>
-  Chat, pipeline, roto and tracking - made by someone who uses them every day.
+  Chat, pipeline, roto and tracking - made by someone who uses them every day Slate is in Beta so do not use it in real use . you can use it and give me feedback .
 </p>
 
 <p align="center">
