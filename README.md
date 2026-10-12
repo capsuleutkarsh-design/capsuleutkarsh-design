@@ -20,26 +20,26 @@
 <tr>
 <td width="50%" valign="top">
 
-### 💬 [Quillo](https://github.com/capsuleutkarsh-design/studio-lan-messenger)
+### 💬 [Quillo](https://github.com/capsuleutkarsh-design/Quillo)
 A private messenger for studios that runs on your own network. Chat and rooms, files of any size, screen
 sharing, polls, shot status, a studio calendar and an org chart. Nothing leaves the building.
 
-<a href="https://github.com/capsuleutkarsh-design/studio-lan-messenger"><img src="https://raw.githubusercontent.com/capsuleutkarsh-design/studio-lan-messenger/main/docs/images/home.png" alt="Quillo" width="100%"></a>
+<a href="https://github.com/capsuleutkarsh-design/Quillo"><img src="https://raw.githubusercontent.com/capsuleutkarsh-design/Quillo/main/screenshots/home.png" alt="Quillo" width="100%"></a>
 
-[⬇ Download](https://github.com/capsuleutkarsh-design/studio-lan-messenger/releases/latest) ·
+[⬇ Download](https://github.com/capsuleutkarsh-design/Quillo/releases/latest) ·
 [Website](https://capsuleutkarsh-design.github.io/studio-lan-messenger/) ·
-[What's new](https://github.com/capsuleutkarsh-design/studio-lan-messenger/blob/main/docs/releases/v1.11.1.md)
+[What's new](https://github.com/capsuleutkarsh-design/Quillo/releases/latest)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎞️ [Slate](https://github.com/capsuleutkarsh-design/slate-vfx)
+### 🎞️ [Slate](https://github.com/capsuleutkarsh-design/Slate)
 A VFX studio pipeline and office app. Shot tracking, renaming and review, plus leave, attendance, IT tickets,
 hardware and licences - one server and a workstation app.
 
-<a href="https://github.com/capsuleutkarsh-design/slate-vfx"><img src="https://raw.githubusercontent.com/capsuleutkarsh-design/slate-vfx/main/docs/assets/dashboard.png" alt="Slate" width="100%"></a>
+<a href="https://github.com/capsuleutkarsh-design/Slate"><img src="https://raw.githubusercontent.com/capsuleutkarsh-design/Slate/main/screenshots/dashboard.png" alt="Slate" width="100%"></a>
 
-[⬇ Download](https://github.com/capsuleutkarsh-design/slate-vfx/releases/latest) ·
+[⬇ Download](https://github.com/capsuleutkarsh-design/Slate/releases/latest) ·
 [Website](https://capsuleutkarsh-design.github.io/slate-vfx/)
 
 </td>
@@ -47,25 +47,25 @@ hardware and licences - one server and a workstation app.
 <tr>
 <td valign="top">
 
-### ✂️ [Contour VFX](https://github.com/capsuleutkarsh-design/contour-vfx)
+### ✂️ [Contour VFX](https://github.com/capsuleutkarsh-design/ContourVFX)
 Node-based AI roto, mattes, depth and camera tracking for compositors (SAM, ViTMatte, Depth Anything,
 COLMAP), exported to Nuke and Blender. Needs an NVIDIA GPU.
 
-<a href="https://github.com/capsuleutkarsh-design/contour-vfx"><img src="https://raw.githubusercontent.com/capsuleutkarsh-design/contour-vfx/main/docs/screenshots/contour_graph.png" alt="Contour VFX" width="100%"></a>
+<a href="https://github.com/capsuleutkarsh-design/ContourVFX"><img src="https://raw.githubusercontent.com/capsuleutkarsh-design/ContourVFX/main/screenshots/contour_graph.png" alt="Contour VFX" width="100%"></a>
 
-[⬇ Download](https://github.com/capsuleutkarsh-design/contour-vfx/releases/latest) ·
+[⬇ Download](https://github.com/capsuleutkarsh-design/ContourVFX/releases/latest) ·
 [Website](https://capsuleutkarsh-design.github.io/contour-vfx/)
 
 </td>
 <td valign="top">
 
-### 🎯 [Automated Tracker](https://github.com/capsuleutkarsh-design/automated-tracker)
+### 🎯 [Automated Tracker](https://github.com/capsuleutkarsh-design/AutomatedTracker)
 2D point tracking (CoTracker3) and 3D camera solves (COLMAP), exported to Nuke, After Effects, Blender and
 USD. One installer, everything bundled.
 
-<a href="https://github.com/capsuleutkarsh-design/automated-tracker"><img src="https://raw.githubusercontent.com/capsuleutkarsh-design/automated-tracker/main/docs/assets/screens/tracker_2d.png" alt="Automated Tracker" width="100%"></a>
+<a href="https://github.com/capsuleutkarsh-design/AutomatedTracker"><img src="https://raw.githubusercontent.com/capsuleutkarsh-design/AutomatedTracker/main/screenshots/tracker_2d.png" alt="Automated Tracker" width="100%"></a>
 
-[⬇ Download](https://github.com/capsuleutkarsh-design/automated-tracker/releases/latest) ·
+[⬇ Download](https://github.com/capsuleutkarsh-design/AutomatedTracker/releases/latest) ·
 [Website](https://capsuleutkarsh-design.github.io/automated-tracker/)
 
 </td>
@@ -90,7 +90,7 @@ Compositing, roto and tracking by day; pipeline tools for the studio by night.
 ## 📜 Using my tools
 
 All four are **free to use in your studio** under the
-[UT Community Licence](https://github.com/capsuleutkarsh-design/studio-lan-messenger/blob/main/LICENSE.md):
+[UT Community Licence](https://github.com/capsuleutkarsh-design/Quillo#licence):
 use them, change them for your studio, but don't sell them, and send your improvements back as a pull request.
 
 Questions, bugs or ideas: open an issue on the tool's page, or write to
