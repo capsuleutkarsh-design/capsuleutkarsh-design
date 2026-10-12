@@ -52,7 +52,7 @@ hardware and licences - one server and a workstation app.
 Node-based AI roto, mattes, depth and camera tracking for compositors (SAM, ViTMatte, Depth Anything,
 COLMAP), exported to Nuke and Blender. Needs an NVIDIA GPU.
 
-<a href="https://github.com/capsuleutkarsh-design/ContourVFX"><img src="https://raw.githubusercontent.com/capsuleutkarsh-design/ContourVFX/main/screenshots/contour_graph.png" alt="Contour VFX" width="100%"></a>
+<a href="https://github.com/capsuleutkarsh-design/ContourVFX"><img src="https://raw.githubusercontent.com/capsuleutkarsh-design/ContourVFX/main/screenshots/main_window.png" alt="Contour VFX" width="100%"></a>
 
 [⬇ Download](https://github.com/capsuleutkarsh-design/ContourVFX/releases/latest) ·
 [Website](https://capsuleutkarsh-design.github.io/contour-vfx/)
