@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>VFX artist in Mumbai, building free tools for VFX and animation studios and individual.</b><br>
-  Chat, pipeline, roto and tracking - made by someone who uses them every day Slate is in Beta so do not use it in real use . you can use it and give me feedback .
+  Chat, pipeline, roto and tracking, plus Gleo, a lossless music player - made by someone who uses them every day Slate is in Beta so do not use it in real use . you can use it and give me feedback .
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
   <a href="https://capsuleutkarsh-design.github.io/"><img alt="Website" src="https://img.shields.io/badge/website-capsuleutkarsh--design.github.io-7fe3d4?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://www.imdb.com/name/nm17360202/"><img alt="IMDb" src="https://img.shields.io/badge/IMDb-Utkarsh_Tripathi-F5C518?style=for-the-badge&logo=imdb&logoColor=black"></a>
   <img alt="Mumbai" src="https://img.shields.io/badge/based_in-Mumbai-1d3a7a?style=for-the-badge">
-  <img alt="Windows" src="https://img.shields.io/badge/tools_for-Windows-5b8def?style=for-the-badge&logo=windows&logoColor=white">
+  <img alt="Windows" src="https://img.shields.io/badge/tools_for-Windows_%7C_Android-5b8def?style=for-the-badge&logo=windows&logoColor=white">
 </p>
 
 ---
@@ -71,6 +71,30 @@ USD. One installer, everything bundled.
 
 </td>
 </tr>
+<tr>
+<td valign="top">
+
+### 🎵 [Gleo](https://github.com/capsuleutkarsh-design/gleo)
+A free, fast music player for lossless libraries on Windows and Android. Gapless, bit-perfect, EQ with
+headphone correction, CUE sheets, smart playlists and a spinning CD. No AI, no accounts.
+
+<a href="https://capsuleutkarsh-design.github.io/gleo/"><img src="https://capsuleutkarsh-design.github.io/assets/gleo.jpg" alt="Gleo" width="100%"></a>
+
+[⬇ Download](https://github.com/capsuleutkarsh-design/gleo/releases/latest) ·
+[Website](https://capsuleutkarsh-design.github.io/gleo/)
+
+</td>
+<td valign="top">
+
+### 📱 Gleo on Android
+The same player on your phone, with a home-screen widget and a lock-screen disc view. Back up in one file
+and restore it on Windows or Android.
+
+<a href="https://capsuleutkarsh-design.github.io/gleo/"><img src="https://capsuleutkarsh-design.github.io/gleo/assets/screens/phone-home.webp" alt="Gleo on Android: home" width="48%"></a>
+<a href="https://capsuleutkarsh-design.github.io/gleo/"><img src="https://capsuleutkarsh-design.github.io/gleo/assets/screens/phone-now-playing.webp" alt="Gleo on Android: Now Playing" width="48%"></a>
+
+</td>
+</tr>
 </table>
 
 ---
@@ -90,7 +114,7 @@ Compositing, roto and tracking by day; pipeline tools for the studio by night.
 
 ## 📜 Using my tools
 
-All four are **free to use in your studio** under the
+All five are **free to use in your studio** under the
 [UT Community Licence](https://github.com/capsuleutkarsh-design/Quillo#licence):
 use them, change them for your studio, but don't sell them, and send your improvements back as a pull request.
 
